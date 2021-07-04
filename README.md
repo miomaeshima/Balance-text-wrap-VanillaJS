@@ -1,8 +1,12 @@
-# Text balancing using https://github.com/adobe/balance-text
+# Text balancing using <br> https://github.com/adobe/balance-text
 
-Added some codes in index.html 1. cdn 2. calling function "balanceText" 3. applying css style of text-wrap: balance to any elements with class named "balance-text"
+## Add some codes in index.html 
 
-Adding class "balance-text" in elements.
+1. cdn<br> 
+2. calling function "balanceText"<br> 
+3. applying css style of text-wrap: balance to any elements with class named "balance-text"
+
+## Add class "balance-text" in elements.
 
 複行に渡る場合、バランスよく改行されるようにする polyfil
 
